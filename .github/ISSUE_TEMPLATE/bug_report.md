@@ -1,23 +1,23 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'Astaroths cane flagged Rare/ex?'
 labels: ''
 assignees: OmegaBison, reddituser7777
 
 ---
 
 ## Summary
-<!--- Provide a general summary of the issue in the Title above. -->
-
+https://gyazo.com/866e26749240ef91ee903c869abd6867
+Had inventory space but the item was automatically deleted upon dropping as though it was flagged Rare/EX because I already had one in my inventory.
 ## Expected Behavior
-<!--- Tell us what should happen. Add screenshots if applicable. -->
+To get a second one to sell lol
 
 ## Current Behavior
-<!--- Tell us what happens instead of the expected behavior. Add screenshots if applicable. -->
+Not able to carry 2
 
 ## Relevant Wiki Link
-<!--- Please make sure to reference a ffxiclopedia wiki entry no later than August 2008.  -->
+https://ffxiclopedia.fandom.com/wiki/Astaroth_Cane
 
 ## Possible Solution & Detailed Description
 <!--- Not obligatory, but suggest a fix/reason for the bug. -->
